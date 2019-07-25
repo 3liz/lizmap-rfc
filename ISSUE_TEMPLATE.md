@@ -1,4 +1,4 @@
-# Lizmap Request for Comment: Title
+# Lizmap RFC: Title
 
 **Date** YYYY/MM/DD
 
